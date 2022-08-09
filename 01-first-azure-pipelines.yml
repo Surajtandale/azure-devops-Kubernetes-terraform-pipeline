@@ -10,7 +10,7 @@ pool:
   vmImage: ubuntu-latest
 
 steps:
-- script: echo Hello, world changed date 25042022!
+- script: echo Hello, world changed date 25082022!
   displayName: 'Run a one-line script'
 
 - script: |
